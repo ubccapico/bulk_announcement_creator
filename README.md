@@ -1,7 +1,7 @@
 ![Image of Sauder](http://www.hec.ca/en/executive-education/news/2018/logo-UBC-Sauder.jpg)
 
 # Bulk Announcement Creator
-Creates a list of delayed announcements specified in a CSV or Excel file. Useful for when you need to create a large number of similar messages over a period of time.
+Creates a list of delayed announcements specified in a CSV or Excel file. Useful for when you need to create a large number of similar messages over a period of time. *Author(s): Jeremy H.*
 
 ## Instructions:
 1. If you do not have Python, install it. If you have no experience with it, I recommend installing it through *https://www.anaconda.com/download/*.
