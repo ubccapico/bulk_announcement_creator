@@ -1,4 +1,4 @@
-![Image of Sauder](http://www.hec.ca/en/executive-education/news/2018/logo-UBC-Sauder.jpg)
+![Image of UBC](https://physicaltherapy.med.ubc.ca/files/2012/05/UBC-logo-signature-blue.gif)
 
 # Bulk Announcement Creator
 Creates a list of delayed announcements specified in a CSV or Excel file. Useful for when you need to create a large number of similar messages over a period of time. *Author(s): Jeremy H.*
